@@ -1,0 +1,20 @@
+[
+  {
+    "nombreProducto": "cheetos",
+    "codigoProducto": 4321,
+    "cantidadStock": 45,
+    "precioProducto": 15
+  },
+  {
+    "nombreProducto": "coca cola",
+    "codigoProducto": 5678,
+    "cantidadStock": 30,
+    "precioProducto": 18
+  },
+  {
+    "nombreProducto": "tecate",
+    "codigoProducto": 987,
+    "cantidadStock": 70,
+    "precioProducto": 22
+  }
+]
